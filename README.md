@@ -101,8 +101,6 @@ The following DAX Queries was added:
   (29) West Bengal
 
 - Step 9 : In the report view, under the insert tab, one text box was added to the canvas, the title of the project is mentioned in the box.
-- Step 10 : 
-
 
 # Snapshot of Dashboard (Power BI DESKTOP)
 
